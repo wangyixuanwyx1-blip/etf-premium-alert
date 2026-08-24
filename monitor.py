@@ -209,8 +209,10 @@ def pushplus_send(token, title, content):
     payload = {"token": token, "title": title, "content": content, "template": "markdown"}
     try:
         resp = http_post_json(PUSHPLUS_URL, payload)
-        ok = isinstance(resp, dict) and resp.get("code") == 200
-        print(f"[push] {'成功' if ok else '失败: ' + str(resp)[:200]}")
+        print(f"[push] response: {resp}")
+        code = resp.get("code") if isinstance(resp, dict) else None
+        ok = code in (200, "200")
+        print(f"[push] {'成功' if ok else '失败'}")
         return ok
     except Exception as e:
         print(f"[push] 异常: {e}")
