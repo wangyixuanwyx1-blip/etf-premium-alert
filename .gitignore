@@ -1,0 +1,12 @@
+# 运行时状态（每次监控自动更新，不需要上传）
+state.json
+state.json.tmp
+
+# 分析产物（本地用，不需要部署到 GitHub）
+results/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
