@@ -1,73 +1,73 @@
 {
   "513870": {
-    "nav": 1.8925,
-    "nav_date": "2026-09-10",
+    "nav": 1.872,
+    "nav_date": "2026-09-11",
     "zone": "high",
     "last_alert": 1788139857.641267
   },
   "513650": {
-    "nav": 1.8645,
-    "nav_date": "2026-09-10",
+    "nav": 1.8537,
+    "nav_date": "2026-09-11",
     "zone": "high",
     "last_alert": null
   },
   "513310": {
-    "nav": 4.4632,
-    "nav_date": "2026-09-10",
+    "nav": 4.3356,
+    "nav_date": "2026-09-11",
     "zone": "normal",
     "last_alert": null
   },
   "513520": {
-    "nav": 2.2039,
-    "nav_date": "2026-09-10",
+    "nav": 2.1509,
+    "nav_date": "2026-09-11",
     "zone": "normal",
     "last_alert": 1788918345.756014
   },
   "159941": {
-    "nav": 1.4881,
-    "nav_date": "2026-09-10",
+    "nav": 1.472,
+    "nav_date": "2026-09-11",
     "zone": "high",
     "last_alert": null
   },
   "513100": {
-    "nav": 1.9873,
-    "nav_date": "2026-09-10",
+    "nav": 1.9659,
+    "nav_date": "2026-09-11",
     "zone": "high",
     "last_alert": null
   },
   "513300": {
-    "nav": 2.4567,
-    "nav_date": "2026-09-10",
+    "nav": 2.4297,
+    "nav_date": "2026-09-11",
     "zone": "high",
     "last_alert": null
   },
   "159501": {
-    "nav": 1.8666,
-    "nav_date": "2026-09-10",
+    "nav": 1.8463,
+    "nav_date": "2026-09-11",
     "zone": "high",
     "last_alert": null
   },
   "159632": {
-    "nav": 2.2569,
-    "nav_date": "2026-09-10",
+    "nav": 2.2323,
+    "nav_date": "2026-09-11",
     "zone": "high",
     "last_alert": 1788145998.711127
   },
   "513500": {
-    "nav": 2.4484,
-    "nav_date": "2026-09-10",
+    "nav": 2.4341,
+    "nav_date": "2026-09-11",
     "zone": "high",
     "last_alert": null
   },
   "159655": {
-    "nav": 1.8654,
-    "nav_date": "2026-09-10",
+    "nav": 1.8544,
+    "nav_date": "2026-09-11",
     "zone": "high",
     "last_alert": null
   },
   "159612": {
-    "nav": 1.9205,
-    "nav_date": "2026-09-10",
+    "nav": 1.9096,
+    "nav_date": "2026-09-11",
     "zone": "high",
     "last_alert": null
   },
