@@ -14,8 +14,8 @@
   "513310": {
     "nav": 4.7118,
     "nav_date": "2026-09-22",
-    "zone": "normal",
-    "last_alert": null
+    "zone": "low",
+    "last_alert": 1790059075.764566
   },
   "513520": {
     "nav": 2.1635,
