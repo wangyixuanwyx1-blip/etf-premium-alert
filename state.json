@@ -1,73 +1,73 @@
 {
   "513870": {
-    "nav": 1.9735,
-    "nav_date": "2026-10-12",
+    "nav": 1.9522,
+    "nav_date": "2026-10-14",
     "zone": "high",
     "last_alert": 1790044982.086594
   },
   "513650": {
-    "nav": 1.8952,
-    "nav_date": "2026-10-12",
+    "nav": 1.8928,
+    "nav_date": "2026-10-14",
     "zone": "high",
     "last_alert": 1790663943.356649
   },
   "513310": {
-    "nav": 4.2287,
-    "nav_date": "2026-10-12",
-    "zone": "low",
-    "last_alert": 1791443084.248951
+    "nav": 3.9769,
+    "nav_date": "2026-10-14",
+    "zone": "normal",
+    "last_alert": 1791957257.697116
   },
   "513520": {
-    "nav": 2.2918,
-    "nav_date": "2026-10-12",
+    "nav": 2.2616,
+    "nav_date": "2026-10-14",
     "zone": "normal",
     "last_alert": 1791529888.753928
   },
   "159941": {
-    "nav": 1.5508,
-    "nav_date": "2026-10-12",
+    "nav": 1.5335,
+    "nav_date": "2026-10-14",
     "zone": "high",
     "last_alert": null
   },
   "513100": {
-    "nav": 2.0717,
-    "nav_date": "2026-10-12",
+    "nav": 2.0494,
+    "nav_date": "2026-10-14",
     "zone": "high",
     "last_alert": null
   },
   "513300": {
-    "nav": 2.5727,
-    "nav_date": "2026-10-12",
+    "nav": 2.5466,
+    "nav_date": "2026-10-14",
     "zone": "high",
     "last_alert": 1790044982.086594
   },
   "159501": {
-    "nav": 1.9461,
-    "nav_date": "2026-10-12",
+    "nav": 1.9253,
+    "nav_date": "2026-10-14",
     "zone": "high",
     "last_alert": null
   },
   "159632": {
-    "nav": 2.3545,
-    "nav_date": "2026-10-12",
+    "nav": 2.3287,
+    "nav_date": "2026-10-14",
     "zone": "high",
     "last_alert": 1790044982.086594
   },
   "513500": {
-    "nav": 2.4894,
-    "nav_date": "2026-10-12",
+    "nav": 2.4864,
+    "nav_date": "2026-10-14",
     "zone": "high",
     "last_alert": null
   },
   "159655": {
-    "nav": 1.905,
-    "nav_date": "2026-10-12",
+    "nav": 1.9036,
+    "nav_date": "2026-10-14",
     "zone": "high",
     "last_alert": 1790663943.356649
   },
   "159612": {
-    "nav": 1.9527,
-    "nav_date": "2026-10-12",
+    "nav": 1.9504,
+    "nav_date": "2026-10-14",
     "zone": "high",
     "last_alert": null
   },
